@@ -20,3 +20,7 @@ vi demo.tape
 # generate gif
 vhs demo.tape
 ```
+
+## Demo
+
+![demo](./out.gif)
